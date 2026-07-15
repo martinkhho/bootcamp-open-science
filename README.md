@@ -8,5 +8,16 @@
 ---
 
 **LEARNING OBJECTIVES:**
+**LEARNING OBJECTIVES:**
 
+- Understand the principles of open science and reproducible research.
+- Use Git and GitHub for version control, collaboration, and open publishing.
+- Author reproducible documents with Quarto and literate programming workflows.
+- Manage R project environments with `renv` to ensure reproducible analyses.
+- Structure repositories to share code, data, and documentation effectively.
+- Apply licensing, citation, and metadata best practices for open datasets.
+- Create automated renders and workflows to reproduce computational outputs.
+- Share code and data following FAIR principles and ethical standards.
+- Contribute to and review open-source projects responsibly and constructively.
+- Prepare reproducible analytical pipelines for collaboration and publication.
 - 
