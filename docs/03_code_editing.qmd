@@ -25,7 +25,7 @@ All files are stored as binary digits aka "bits" (sequences of 0's and 1's). How
 
 ## Git
 
-Git is a distributed (lives locally on your computer) **version control system**. You can think of it as a time machine: it takes snapshots of files so that you can track and compare them over time. In a sense, it is similar to the Tracked Changes feature in Microsoft Word, but for entire projects.
+Git is a distributed **version control system**. "Distributed" means that every user has a local copy of the repository. You can think of Git as a time machine: it takes snapshots of files so that you can track and compare them over time. In a sense, it is similar to the Tracked Changes feature in Microsoft Word, but for entire projects.
 
 Git tracks changes in text files and can show you the lines that changed. It can also track changes in binary files, but it cannot easily show you what the particular changes were -- only that *something* changed.
 
@@ -48,12 +48,12 @@ Besides version control, Git is also useful for **sharing and collaboration** --
 
 ## VS Code
 
-VS Code (Microsoft) and RStudio (Posit) are both development environemnts that include a text editor and terminal, but they are designed with different priorities. I often keep both open at the same time.
+VS Code (Microsoft) and RStudio (Posit) are both development environments that include a text editor and terminal, but they are designed with different priorities. I often keep both open at the same time.
 
 VS Code:
 
 - Has a much larger extension ecosystem, including support for many AI coding assistants such as GitHub Copilot, OpenAI Codex, and Claude Code. RStudio only has Posit AI.
-- Has stronger Git and GitHub integration. RStudio is clunkier [@bryanhappy]. There are other way to interface with Git and GitHub too, such as GitHub Desktop.
+- Has stronger Git and GitHub integration. RStudio is clunkier [@bryanhappy]. There are other ways to interface with Git and GitHub too, such as GitHub Desktop.
 
 RStudio:
 
